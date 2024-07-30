@@ -1,2 +1,3 @@
 # ControlloSfocato
-Approfondimento sul controllo fuzzy con applicazione all'irrigazione intelligente su Arduino
+## Irrigazione intelligente con Arduino - Intelligenza Artificiale
+Approfondimento sul controllo fuzzy con applicazione all'irrigazione
